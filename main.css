@@ -1,0 +1,31 @@
+.footer-img{
+    background-image: url("footer_bg.jpg");
+
+}
+.jumbo-image{
+    background-image: url("wctcjumbtronImage.jpg");}
+.footer-btn{
+}
+footer, footer a{
+    color:white;
+
+}
+footer .btn{
+
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+}
+
+.breadcrumb a {
+    color: black;
+    text-decoration: none
+
+}
+.col-3 a{
+    color: black;
+    text-decoration: none
+}
